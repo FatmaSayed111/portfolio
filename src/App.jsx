@@ -13,7 +13,7 @@ function App() {
       <Navbar />
       <main>
         <section id="home"><Hero /></section>
-        <section id="about"><About /></section>
+        {/* <section id="about"><About /></section> */}
         <section id="projects"><Projects /></section>
         <section id="skills"><Skills /></section>
         <section id="contact"><Contact /></section>
